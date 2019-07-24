@@ -1,0 +1,12 @@
+{
+  "name": "AOBOT",
+  "version": "1.0.0",
+  "description": "Ganbaruzoi",
+  "main": "bot.js",
+  "author": "CIEL",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "dotenv": "^8.0.0",
+    "winston": "^3.0.0"
+  }
+}
